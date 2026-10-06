@@ -59,7 +59,6 @@
 0.0.0.0 event.api.np.km.playstation.net
 0.0.0.0 ps4updptl.uk.np.community.playstation.net
 0.0.0.0 static-resource.np.community.playstation.net
-0.0.0.0 csla.np.community.playstation.net
 0.0.0.0 us.np.stun.playstation.net
 0.0.0.0 fswitch.dl.playstation.net
 0.0.0.0 rnps-crl.dl.playstation.net
